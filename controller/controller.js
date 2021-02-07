@@ -3,3 +3,9 @@ exports.getHome = (req, res, next) => {
         title: 'Allaia'
     })
 }
+
+exports.getBlog = (req, res, next) => {
+    res.render('blog', {
+        title: 'Allaia'
+    })
+}

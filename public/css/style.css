@@ -2037,10 +2037,10 @@ main.freeze {
   padding: 7px 0;
 }
 .top_line.version_1.plus_select .styled-select select {
-  color: #fff;
+  color: #000;
 }
 .top_line.version_1.plus_select .styled-select:after {
-  color: #fff;
+  color: #000;
 }
 .top_line.version_1 ul.top_links {
   list-style: none;
@@ -5319,7 +5319,7 @@ ul.list_ok li:last-child {
   line-height: 32px;
   border: none;
   background-color: #f3f3f3;
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: rgba(255, 255, 255, 0.7);
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
